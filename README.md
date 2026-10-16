@@ -12,7 +12,7 @@ JavaScript의 기본 문법부터 비동기 처리와 브라우저 API까지 학
 
 | Directory | Topics |
 | --- | --- |
-| `basic-concept` | 변수, 자료형, 형 변환, 연산자, 조건문, 반복문 |
+| `basic-concept` | JavaScript 기초, 변수와 자료형, 연산자, 제어문 |
 | `functions` | 함수, 화살표 함수, 콜백, 클로저, `this` |
 | `objects` | 객체, 프로토타입, 클래스, 상속 |
 | `data-structures` | 문자열, 배열, `Map`, `Set`, 구조 분해 할당 |
