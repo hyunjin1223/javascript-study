@@ -1,7 +1,11 @@
 // for문은 반복 횟수를 알고 있을 때 사용하기 편하다.
 for (let i = 1; i <= 3; i++) {
-  console.log(i); // 1, 2, 3
+  console.log(i); 
 }
+// 출력:
+// 1
+// 2
+// 3
 
 // while문은 조건이 true인 동안 반복한다.
 let remaining = 3;
