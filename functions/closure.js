@@ -21,4 +21,4 @@ const tracker = createScoreTracker(10);
 console.log(tracker.add(5)); // 15 // 15
 console.log(tracker.add(8)); // 23 // 23
 console.log(tracker.getScore()); // 23 // 23
-console.log(tracker.score); // undefined // undefined (지역 변수에 직접 접근할 수 없음)
+console.log(tracker.score); // undefined (지역 변수에 직접 접근할 수 없음)
